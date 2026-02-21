@@ -1,48 +1,30 @@
-# LeafByte Studios
+# Leafbyte Studios
 
-**LeafByte Studios** is an independent development studio focused on creative, technical, and experimental projects.
+Leafbyte Studios is a one-person development studio focused on experimental software projects.
 
-We build things because they’re interesting — not because they’re easy.
-
----
-
-## What We Do
-- Software tools & utilities  
-- Game & engine experiments  
-- 3D modeling and animation  
-- Open-source side projects  
+Repositories are used to explore ideas, test concepts, and understand systems by building them.
 
 ---
 
-## Projects
-Most repositories here are:
+## What You'll Find
+
 - Experiments  
-- Work-in-progress ideas  
-- Learning-focused builds  
+- Work-in-progress builds  
+- Learning-focused implementations  
 
-Some may change rapidly or break — that’s intentional.
+Some projects may change quickly.  
+Some may be incomplete.  
 
----
-
-## Tech Stack
-- Rust / C / C++
-- Python
-- FFmpeg & media tooling
-- 3D pipelines & asset workflows
+That is intentional.
 
 ---
 
 ## Philosophy
-> Learn by building.  
-> Break things to understand them.  
-> Ship when it feels right.
+
+Learn by building.  
+Break things to understand them.  
+Improve through iteration.
 
 ---
 
-## Contact
-- GitHub Issues / Discussions  
-- Discord: [.gg/n2vqEZMF4T](discord.gg/n2vqEZMF4T)
-
----
-
-*LeafByte Studios — one person, many ideas.*
+*Leafbyte Studios — One developer, many ideas.*
